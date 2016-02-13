@@ -46,6 +46,6 @@ branches:
 #    template: "%{repository}#%{build_number} (%{branch}) %{message} %{build_url}"
 #    channels: irc.freenode.org#bunto
 
-  email:
-    recipients:
-      - SuriyaaKudoIsc@users.noreply.github.com
+#  email:
+#    recipients:
+#      - SuriyaaKudoIsc@users.noreply.github.com
