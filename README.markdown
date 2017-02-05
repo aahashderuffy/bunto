@@ -1,5 +1,5 @@
 # ![Bunto](https://cloud.githubusercontent.com/assets/5073946/9288138/f4335fee-4337-11e5-9a28-068900097035.png)
-> **Bunto** is a Web Application Framework which can be used as a simple, static site generator for personal, project, or organization sites. 
+> **Bunto** is a [Web Application Framework](https://en.wikipedia.org/wiki/Web_framework) which can be used as a simple, static site generator for personal, project, or organization sites. 
 
 <table>
   <thead>
@@ -39,7 +39,7 @@
 
 By Suriyaa Kudo, Tom Preston-Werner, Parker Moore and many [awesome contributors](https://github.com/bunto/bunto/graphs/contributors)!
 
-Bunto is a Web Application Framework and can be used as a static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Bunto takes your content, renders HTML and CSS templates, and spits out a complete, static website ready to be served by Apache, hostSE, Nginx or another web server. Bunto is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
+Bunto is a [Web Application Framework](https://en.wikipedia.org/wiki/Web_framework) and can be used as a static site generator perfect for personal, project, or organization sites. Think of it like a file-based CMS, without all the complexity. Bunto takes your content, renders HTML and CSS templates, and spits out a complete, static website ready to be served by Apache, hostSE, Nginx or another web server. Bunto is the engine behind [GitHub Pages](https://pages.github.com), which you can use to host sites right from your GitHub repositories.
 
 ## Philosophy
 
